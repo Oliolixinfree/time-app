@@ -12,9 +12,9 @@ Database is MySQL.
 
 **2. Clone or Download this repository to your computer.**
 * Clone:
-	```bash
+	`bash
 	git clone https://github.com/Oliolixinfree/time-app.git
-	```
+	`
  * Or download the ZIP file and unzip it on your computer.
 
 **3. Open the application folder in the terminal or IDE.**
