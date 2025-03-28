@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+log/
+
+# API (Backend)
+/api/node_modules/
+/api/.env
+/api/*.log
+/api/.DS_Store
+
+# Frontend (Vue)
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+/frontend/.DS_Store
+
+# Vite
+.vite
+.vite-cache
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS Files
+Thumbs.db
+Desktop.ini
